@@ -2,8 +2,9 @@
 	"wallpapers": [
 	  {
 		"author": "bwildner",
-		"url": "https://github.com/bwildner77/STAXX/blob/master/GEOSCAPE_json.jpg",
+		"url": "https://github.com/bwildner77/STAXX/blob/main/STAXX.json",
 		"name": "STAXX",
+		"thumbnail": "https://github.com/bwildner77/STAXX/blob/main/512.jpg"
 	}
   ]
 }
